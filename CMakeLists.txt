@@ -3,4 +3,8 @@ project(proy)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(proy main.cpp)
+add_executable(proy main.cpp
+        Tablero.cpp
+        Tablero.h
+        Detective.cpp
+        Detective.h)
