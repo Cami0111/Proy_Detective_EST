@@ -7,4 +7,9 @@ add_executable(proy main.cpp
         Tablero.cpp
         Tablero.h
         Detective.cpp
-        Detective.h)
+        Detective.h
+        Sospechoso.cpp
+        Sospechoso.h
+        GestorSospechosos.cpp
+        GestorSospechosos.h
+)
